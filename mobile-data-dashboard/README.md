@@ -6,10 +6,10 @@ This project is a Power BI dashboard built to analyze and visualize mobile data 
 
 Key Features-
 
-Interactive visualizations with filters and slicers.
-Usage breakdown by time, category, or user.
-Trend analysis for monitoring data over periods.
-Comparative insights for performance tracking.
+-Interactive visualizations with filters and slicers.
+=Usage breakdown by time, category, or user.
+-Trend analysis for monitoring data over periods.
+- insights for performance tracking.
 
 How to Use-
 

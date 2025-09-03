@@ -17,13 +17,13 @@ How to Use-
 - Open the file: My Power BI Mobile Data Dashboard.pbix.
 - Explore the dashboard by clicking on charts, applying filters, and reviewing insights.
 
-File Information
+File Information-
 
 - File Name: My Power BI Mobile Data Dashboard.pbix
 - Format: Power BI Report (.pbix)
 - Tool Required: Microsoft Power BI
 
-Notes
+Notes-
 
 - Latest version of Power BI is recommended.
 - If external data sources are connected, ensure credentials/access permissions are available.
